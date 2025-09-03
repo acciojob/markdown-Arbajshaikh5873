@@ -25,7 +25,7 @@ function App() {
         className="card preview"
         style={{ width: "50%", backgroundColor: "#999292ff", height: "100vh" }}
       >
-        {text}
+        <h1>{text}</h1>
       </div>
     </div>
   );
