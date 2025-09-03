@@ -3,7 +3,7 @@ import "../styles/index.css";
 import "../styles/App.css";
 
 function App() {
-  const [text, setText] = useState();
+  const [text, setText] = useState("");
   function updateInput(event) {
     setText(event.target.value);
   }
@@ -25,7 +25,10 @@ function App() {
         className="card preview"
         style={{ width: "50%", backgroundColor: "#999292ff", height: "100vh" }}
       >
-        <h1>{text}</h1>
+        <h1 id="Heading">
+          {`\n\nThis is some `}
+          <b>{`${text}`}</b> text.
+        </h1>
       </div>
     </div>
   );
