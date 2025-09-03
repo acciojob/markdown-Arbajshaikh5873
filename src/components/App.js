@@ -22,7 +22,7 @@ function App() {
         <textarea value={text} onChange={updateInput} />
       </div>
       <div
-        className="card"
+        className="card preview"
         style={{ width: "50%", backgroundColor: "#999292ff", height: "100vh" }}
       >
         {text}
