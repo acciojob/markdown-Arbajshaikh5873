@@ -1,0 +1,40 @@
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\AppData\Local\Temp\jest_runner_markdown_arbajshaikh5873_admin.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\AppData\Local\Temp\jest_runner_markdown_arbajshaikh5873_admin.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\AppData\Local\Temp\jest_runner_markdown_arbajshaikh5873_admin.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\AppData\Local\Temp\jest_runner_markdown_arbajshaikh5873_admin.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\AppData\Local\Temp\jest_runner_markdown_arbajshaikh5873_admin.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\AppData\Local\Temp\jest_runner_markdown_arbajshaikh5873_admin.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\AppData\Local\Temp\jest_runner_markdown_arbajshaikh5873_admin.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\AppData\Local\Temp\jest_runner_markdown_arbajshaikh5873_admin.json
+

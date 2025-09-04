@@ -1,35 +1,11 @@
-import React, { useState } from "react";
-import "../styles/index.css";
-import "../styles/App.css";
+import React from "react";
+import MarkdownEditor from "./MarkdownEditor";
+import "../styles.css";
 
 function App() {
-  const [text, setText] = useState("");
-  function updateInput(event) {
-    setText(event.target.value);
-  }
   return (
-    <div
-      className="card-container app"
-      style={{
-        display: "flex",
-        justifyContent: "space-around",
-        alignItems: "center",
-        height: "100vh",
-        flexWrap: "wrap",
-      }}
-    >
-      <div className="card" style={{ width: "50%", height: "100vh" }}>
-        <textarea value={text} onChange={updateInput} />
-      </div>
-      <div
-        className="card preview"
-        style={{ width: "50%", backgroundColor: "#999292ff", height: "100vh" }}
-      >
-        <h1 id="Heading">
-          {`\n\nThis is some `}
-          <b>{`${text}`}</b> text.
-        </h1>
-      </div>
+    <div className="app">
+      <MarkdownEditor />
     </div>
   );
 }
